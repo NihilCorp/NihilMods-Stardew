@@ -1,0 +1,10 @@
+﻿{
+  "Name": "NihilCorp's Finance",
+  "Author": "NihilCorp",
+  "Version": "0.0.x",
+  "Description": "This mod adds additional economic content to the game, including taxes to work against and variable sell prices.",
+  "UniqueID": "NihilCorp.Finance",
+  "EntryDll": "NihilCorpFinance.dll",
+  "MinimumApiVersion": "2.6-beta.5",
+  "UpdateKeys": []
+}
